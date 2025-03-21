@@ -383,3 +383,7 @@ if __name__ == '__main__':
     window = HotelApp()
     window.show()
     sys.exit(app.exec())
+
+#новое
+#новое
+#новое
